@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [fathallahjr.netlify.app](https://fathallahjr.netlify.app/)
 
-- 📝 I regularly write articles on [medium.com/@fathallah5](medium.com/@fathallah5)
+- 📝 I regularly write articles on [medium.com/@fathallah5](https://medium.com/@fathallah5)
 
 - 💬 Ask me about **CTF's, web development and cyber security!**
 
