@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **as much as I can**
 
-- 👨‍💻 All of my projects are available at [fathallahjr.netlify.app](fathallahjr.netlify.app)
+- 👨‍💻 All of my projects are available at fathallahjr.netlify.app/
 
 - 📝 I regularly write articles on [medium.com/@fathallah5](medium.com/@fathallah5)
 
